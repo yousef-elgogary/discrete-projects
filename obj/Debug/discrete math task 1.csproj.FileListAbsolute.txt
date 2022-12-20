@@ -1,0 +1,8 @@
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\bin\Debug\discrete math task 1.exe.config
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\bin\Debug\discrete math task 1.exe
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\bin\Debug\discrete math task 1.pdb
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\obj\Debug\discrete math task 1.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\obj\Debug\discrete math task 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\obj\Debug\discrete math task 1.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\obj\Debug\discrete math task 1.exe
+C:\Users\youse\source\repos\discrete math task 1\discrete math task 1\obj\Debug\discrete math task 1.pdb
