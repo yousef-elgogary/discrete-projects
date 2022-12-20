@@ -1,1 +1,1 @@
-# discrete-projects
+# discrete-project 1
